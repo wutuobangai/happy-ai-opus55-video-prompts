@@ -1,0 +1,591 @@
+{
+  "snapshot": "2026-10-11",
+  "selection": "Complete non-partial prompts; recorded views prioritized within categories; clips visually selected; interactive view counts unavailable.",
+  "items": [
+    {
+      "id": "2103273003555402193",
+      "title_zh": "单个形状变形的 UI 动效循环",
+      "title_en": "A seamless morphing UI loop",
+      "category": "showreel",
+      "author": "twoclipping",
+      "original_post": "https://x.com/twoclipping/status/2103273003555402193",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 933764,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103273003555402193",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/3.mp4",
+      "gif": "3.gif",
+      "start_seconds": 4,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 195838
+    },
+    {
+      "id": "2103424524297420829",
+      "title_zh": "max 档的动效简历短片",
+      "title_en": "A 15-second motion-design showreel",
+      "category": "showreel",
+      "author": "darel023",
+      "original_post": "https://x.com/darel023/status/2103424524297420829",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 65971,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103424524297420829",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/25.mp4",
+      "gif": "25.gif",
+      "start_seconds": 7.4,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1108909
+    },
+    {
+      "id": "2104085484347818226",
+      "title_zh": "手游高光时刻动效模板",
+      "title_en": "Mobile-game highlight animation",
+      "category": "showreel",
+      "author": "op7418",
+      "original_post": "https://x.com/op7418/status/2104085484347818226",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 65100,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2104085484347818226",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/26.mp4",
+      "gif": "26.gif",
+      "start_seconds": 8.5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1882700
+    },
+    {
+      "id": "2103835273813496100",
+      "title_zh": "苹果发布会风格的发布短片模板",
+      "title_en": "An Apple-keynote-style launch film",
+      "category": "launch",
+      "author": "twoclipping",
+      "original_post": "https://x.com/twoclipping/status/2103835273813496100",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 99440,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103835273813496100",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/14.mp4",
+      "gif": "14.gif",
+      "start_seconds": 13.5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 392434
+    },
+    {
+      "id": "2103723183899852885",
+      "title_zh": "聚焦产品的动效视频模板",
+      "title_en": "A motion-graphics template for your product",
+      "category": "launch",
+      "author": "ann_nnng",
+      "original_post": "https://x.com/ann_nnng/status/2103723183899852885",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 95202,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103723183899852885",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/17.mp4",
+      "gif": "17.gif",
+      "start_seconds": 6.3,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 900591
+    },
+    {
+      "id": "2103066071838466494",
+      "title_zh": "自选 SaaS 的产品发布视频",
+      "title_en": "A launch video for a SaaS product",
+      "category": "launch",
+      "author": "moritzkremb",
+      "original_post": "https://x.com/moritzkremb/status/2103066071838466494",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 88759,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103066071838466494",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/18.mp4",
+      "gif": "18.gif",
+      "start_seconds": 22,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 437913
+    },
+    {
+      "id": "2102853258582880547",
+      "title_zh": "一张图生成的鸡尾酒配方动画",
+      "title_en": "A cocktail recipe animated from one image",
+      "category": "explainer",
+      "author": "Ror_Fly",
+      "original_post": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 73604,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102853258582880547",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/20.mp4",
+      "gif": "20.gif",
+      "start_seconds": 14.5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 321728
+    },
+    {
+      "id": "2102805376466891137",
+      "title_zh": "LLM 上下文窗口如何累积",
+      "title_en": "How an LLM context window fills up",
+      "category": "explainer",
+      "author": "joaoli13",
+      "original_post": "https://x.com/joaoli13/status/2102805376466891137",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 30925,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102805376466891137",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/43.mp4",
+      "gif": "43.gif",
+      "start_seconds": 51,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 160892
+    },
+    {
+      "id": "2103454597641891922",
+      "title_zh": "萌物讲解大语言模型原理",
+      "title_en": "A friendly creature explains language models",
+      "category": "explainer",
+      "author": "eyishazyer",
+      "original_post": "https://x.com/eyishazyer/status/2103454597641891922",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 4624,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103454597641891922",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/106.mp4",
+      "gif": "106.gif",
+      "start_seconds": 19.2,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 603584
+    },
+    {
+      "id": "2103116235009347650",
+      "title_zh": "奥斯特里茨战役 5 分钟电影",
+      "title_en": "A five-minute film about Austerlitz",
+      "category": "history",
+      "author": "WinterArc2125",
+      "original_post": "https://x.com/WinterArc2125/status/2103116235009347650",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 394539,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103116235009347650",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/5.mp4",
+      "gif": "5.gif",
+      "start_seconds": 215,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1195091
+    },
+    {
+      "id": "2102466523164274839",
+      "title_zh": "1906 年旧金山市场街复原",
+      "title_en": "Reconstructing San Francisco in 1906",
+      "category": "history",
+      "author": "alexalbert__",
+      "original_post": "https://x.com/alexalbert__/status/2102466523164274839",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 147187,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102466523164274839",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/9.mp4",
+      "gif": "9.gif",
+      "start_seconds": 2,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 2005488
+    },
+    {
+      "id": "2102743212922384673",
+      "title_zh": "从人类诞生到 Opus 5.5",
+      "title_en": "From early humans to Opus 5.5",
+      "category": "history",
+      "author": "songkeys",
+      "original_post": "https://x.com/songkeys/status/2102743212922384673",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 35183,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102743212922384673",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/39.mp4",
+      "gif": "39.gif",
+      "start_seconds": 76,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 939168
+    },
+    {
+      "id": "2102801274173587569",
+      "title_zh": "Claude Pop 新版 MV",
+      "title_en": "Claude Pop: a new music video",
+      "category": "music",
+      "author": "donaldjewkes",
+      "original_post": "https://x.com/donaldjewkes/status/2102801274173587569",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 2786827,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102801274173587569",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/1.mp4",
+      "gif": "1.gif",
+      "start_seconds": 71,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1656530
+    },
+    {
+      "id": "2102919394775220530",
+      "title_zh": "90 年代 demoscene",
+      "title_en": "A real-time 1990s demoscene",
+      "category": "music",
+      "author": "gandamu_ml",
+      "original_post": "https://x.com/gandamu_ml/status/2102919394775220530",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 37488,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102919394775220530",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/37.mp4",
+      "gif": "37.gif",
+      "start_seconds": 121,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1278602
+    },
+    {
+      "id": "2103697580421181894",
+      "title_zh": "塞满 AI 梗的 MV",
+      "title_en": "A music video packed with AI references",
+      "category": "music",
+      "author": "doubleunplussed",
+      "original_post": "https://x.com/doubleunplussed/status/2103697580421181894",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 24609,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103697580421181894",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/52.mp4",
+      "gif": "52.gif",
+      "start_seconds": 186,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 965712
+    },
+    {
+      "id": "2102476258948927543",
+      "title_zh": "施法的像素风巫师",
+      "title_en": "A pixel-art wizard casting a spell",
+      "category": "story",
+      "author": "majidmanzarpour",
+      "original_post": "https://x.com/majidmanzarpour/status/2102476258948927543",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 438678,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102476258948927543",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/4.mp4",
+      "gif": "4.gif",
+      "start_seconds": 5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 260272
+    },
+    {
+      "id": "2102515055116063144",
+      "title_zh": "太空中闪避陨石的像素小人",
+      "title_en": "A pixel runner dodging meteors in space",
+      "category": "story",
+      "author": "riku720720",
+      "original_post": "https://x.com/riku720720/status/2102515055116063144",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 240912,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102515055116063144",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/7.mp4",
+      "gif": "7.gif",
+      "start_seconds": 5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 772445
+    },
+    {
+      "id": "2102503027340988559",
+      "title_zh": "会飞起来的玻璃金箔马赛克",
+      "title_en": "A glass-and-gold mosaic comes alive",
+      "category": "story",
+      "author": "LCSlates",
+      "original_post": "https://x.com/LCSlates/status/2102503027340988559",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 128651,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2102503027340988559",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/12.mp4",
+      "gif": "12.gif",
+      "start_seconds": 38,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 866678
+    },
+    {
+      "id": "2103228872577765420",
+      "title_zh": "Claude 吉祥物游哥伦比亚",
+      "title_en": "The Claude mascot explores Colombia",
+      "category": "self",
+      "author": "alarcon7a",
+      "original_post": "https://x.com/alarcon7a/status/2103228872577765420",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 14341,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103228872577765420",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/65.mp4",
+      "gif": "65.gif",
+      "start_seconds": 14.5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 945493
+    },
+    {
+      "id": "2103824976713306214",
+      "title_zh": "Claude 小人拍动作片",
+      "title_en": "Claude characters make an action movie",
+      "category": "self",
+      "author": "daniel_mac8",
+      "original_post": "https://x.com/daniel_mac8/status/2103824976713306214",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 14192,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103824976713306214",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/66.mp4",
+      "gif": "66.gif",
+      "start_seconds": 13,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 633833
+    },
+    {
+      "id": "2103509008049144287",
+      "title_zh": "Opus 5.5 剪中秋短视频",
+      "title_en": "Opus edits a Mid-Autumn Festival short",
+      "category": "self",
+      "author": "Gorden_Sun",
+      "original_post": "https://x.com/Gorden_Sun/status/2103509008049144287",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 7964,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103509008049144287",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/82.mp4",
+      "gif": "82.gif",
+      "start_seconds": 39,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 409244
+    },
+    {
+      "id": "2103112945341251920",
+      "title_zh": "巴黎雨夜像素风 lofi 循环",
+      "title_en": "A rainy Paris pixel-art loop",
+      "category": "worlds",
+      "author": "minosdevs",
+      "original_post": "https://x.com/minosdevs/status/2103112945341251920",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 135274,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103112945341251920",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/10.mp4",
+      "gif": "10.gif",
+      "start_seconds": 1.2,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1669200
+    },
+    {
+      "id": "2103837519615774895",
+      "title_zh": "由一个词生成的宇宙诞生动画",
+      "title_en": "A universe generated from a single word",
+      "category": "worlds",
+      "author": "MiaAI_lab",
+      "original_post": "https://x.com/MiaAI_lab/status/2103837519615774895",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 75318,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103837519615774895",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/19.mp4",
+      "gif": "19.gif",
+      "start_seconds": 29,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 932471
+    },
+    {
+      "id": "2103129343253778767",
+      "title_zh": "穿过复古物件的无限缩放",
+      "title_en": "An infinite zoom through vintage objects",
+      "category": "worlds",
+      "author": "koldo2k",
+      "original_post": "https://x.com/koldo2k/status/2103129343253778767",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 67550,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103129343253778767",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/24.mp4",
+      "gif": "24.gif",
+      "start_seconds": 9,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 2225677
+    },
+    {
+      "id": "2103591152847118409",
+      "title_zh": "原始素材剪成快节奏短视频",
+      "title_en": "Raw footage into a punchy social clip",
+      "category": "remix",
+      "author": "sab8a",
+      "original_post": "https://x.com/sab8a/status/2103591152847118409",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 24174,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103591152847118409",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/53.mp4",
+      "gif": "53.gif",
+      "start_seconds": 9,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 878214
+    },
+    {
+      "id": "2103896101120356793",
+      "title_zh": "给播客成片插满讲解动画",
+      "title_en": "Animated explainers inside a podcast",
+      "category": "remix",
+      "author": "stokebuilder",
+      "original_post": "https://x.com/stokebuilder/status/2103896101120356793",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos",
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 1654,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103896101120356793",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/140.mp4",
+      "gif": "140.gif",
+      "start_seconds": 7,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1929728
+    },
+    {
+      "id": "2103035980068557220",
+      "title_zh": "逐帧换装的跑酷子弹时间",
+      "title_en": "A parkour bullet-time style remix",
+      "category": "remix",
+      "author": "Kiana_Liang0609",
+      "original_post": "https://x.com/Kiana_Liang0609/status/2103035980068557220",
+      "collections": [
+        "Li-Evan/awesome-opus-5.5-video-prompts"
+      ],
+      "recorded_views": 880,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103035980068557220",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/165.mp4",
+      "gif": "165.gif",
+      "start_seconds": 3,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 971724
+    },
+    {
+      "id": "2103194052850241739",
+      "title_zh": "奇异建筑三维世界漫游",
+      "title_en": "Explore a world of strange architecture",
+      "category": "interactive",
+      "author": "LexnLin",
+      "original_post": "https://x.com/LexnLin/status/2103194052850241739",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos"
+      ],
+      "recorded_views": null,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103194052850241739",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/359.mp4",
+      "gif": "359.gif",
+      "start_seconds": 24,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 2193006
+    },
+    {
+      "id": "2103128800909197521",
+      "title_zh": "山间小镇的四车竞速",
+      "title_en": "Four-car racing in a mountain town",
+      "category": "interactive",
+      "author": "_nieGRAMotny_",
+      "original_post": "https://x.com/_nieGRAMotny_/status/2103128800909197521",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos"
+      ],
+      "recorded_views": null,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103128800909197521",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/357.mp4",
+      "gif": "357.gif",
+      "start_seconds": 14,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 2415623
+    },
+    {
+      "id": "2103724883301814408",
+      "title_zh": "手游奖励升级与揭晓动效",
+      "title_en": "An interactive mobile-game reward reveal",
+      "category": "interactive",
+      "author": "op7418",
+      "original_post": "https://x.com/op7418/status/2103724883301814408",
+      "collections": [
+        "yihui-dev/awesome-opus5-5-videos"
+      ],
+      "recorded_views": null,
+      "site_url": "https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo#p-2103724883301814408",
+      "source_video": "https://cdn.wutuobangai.com/tools/opus55/v720/403.mp4",
+      "gif": "403.gif",
+      "start_seconds": 9.5,
+      "duration_seconds": 3.5,
+      "width": 480,
+      "bytes": 1758309
+    }
+  ]
+}
