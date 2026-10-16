@@ -1,8 +1,8 @@
 # Opus 5.5 Video Prompts · Happy AI
 
-A **free Chinese-language collection of 646 cases**: watch the results, then copy the prompts. [中文](README.md)
+A **free Chinese-language collection of 927 cases**: watch the results, then copy the prompts. [中文](README.md)
 
-## [▶ Browse all 646 cases for free →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)
+## [▶ Browse all 927 cases for free →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)
 
 <table>
 <tr>
@@ -28,16 +28,16 @@ A **free Chinese-language collection of 646 cases**: watch the results, then cop
 
 | Category | Cases on site | In this repo |
 | --- | ---: | ---: |
-| [Motion & showreels](#category-showreel) | 209 | 3 |
+| [Motion & showreels](#category-showreel) | 343 | 3 |
 | [Product launches & ads](#category-launch) | 136 | 3 |
-| [Explainers](#category-explainer) | 72 | 3 |
+| [Explainers](#category-explainer) | 120 | 3 |
 | [History & documentaries](#category-history) | 20 | 3 |
 | [Music & lyric videos](#category-music) | 18 | 3 |
 | [Stories & pixel animation](#category-story) | 36 | 3 |
 | [Opus introduces itself](#category-self) | 16 | 3 |
-| [3D worlds & shaders](#category-worlds) | 62 | 3 |
+| [3D worlds & shaders](#category-worlds) | 126 | 3 |
 | [Remixes & video editing](#category-remix) | 14 | 3 |
-| [Interactive experiences](#category-interactive) | 63 | 3 |
+| [Interactive experiences](#category-interactive) | 98 | 3 |
 
 ## How to use
 
@@ -47,7 +47,7 @@ A **free Chinese-language collection of 646 cases**: watch the results, then cop
 
 The collection is free; generating a result may require paid models, media tools or your own subscriptions. These are creator examples, not a guarantee that one prompt reproduces the same result.
 
-Selection uses the 2026-10-11 site snapshot: all 30 have complete, non-partial prompts, an original post and a local video. Recorded view counts help rank candidates within each category; visual excerpts are chosen by inspection. Interactive cases have no recorded view count, so they are selected visually. Across all 646 cases, 306 are marked as having complete prompts.
+Selection uses the 2026-10-11 site snapshot: all 30 have complete, non-partial prompts, an original post and a local video. Recorded view counts help rank candidates within each category; visual excerpts are chosen by inspection. Interactive cases have no recorded view count, so they are selected visually. Across all 927 cases, 306 are marked as having complete prompts.
 
 ## 30 curated cases
 
@@ -1146,7 +1146,7 @@ Collection source：[yihui-dev](https://github.com/yihui-dev/awesome-opus5-5-vid
 
 </details>
 
-**[Explore all 646 cases: video, Chinese/original text and one-click copying →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)**
+**[Explore all 927 cases: video, Chinese/original text and one-click copying →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)**
 
 ## Sources & attribution
 

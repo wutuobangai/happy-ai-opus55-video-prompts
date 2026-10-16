@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /happy-ai-opus55-video-prompts/_build/
+Sitemap: https://wutuobangai.github.io/happy-ai-opus55-video-prompts/sitemap.xml

@@ -1,8 +1,8 @@
 # Opus 5.5 视频提示词 · Happy AI 中文精选
 
-免费在线看 646 条视频案例，先看效果，再复制中文提示词。 [English](README.en.md)
+免费在线看 927 条视频案例，先看效果，再复制中文提示词。 [English](README.en.md)
 
-## [▶ 免费看全部 646 条案例 · 一键复制提示词 →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)
+## [▶ 免费看全部 927 条案例 · 一键复制提示词 →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)
 
 <table>
 <tr>
@@ -28,16 +28,16 @@
 
 | 分类 | 站内案例数 | 本仓库精选 |
 | --- | ---: | ---: |
-| [动效与作品集](#category-showreel) | 209 | 3 |
+| [动效与作品集](#category-showreel) | 343 | 3 |
 | [产品发布与广告](#category-launch) | 136 | 3 |
-| [科普与讲解](#category-explainer) | 72 | 3 |
+| [科普与讲解](#category-explainer) | 120 | 3 |
 | [历史与纪录](#category-history) | 20 | 3 |
 | [MV 与歌词动画](#category-music) | 18 | 3 |
 | [叙事、手绘与定格](#category-story) | 36 | 3 |
 | [让 Opus 讲自己](#category-self) | 16 | 3 |
-| [3D、着色器与世界](#category-worlds) | 62 | 3 |
+| [3D、着色器与世界](#category-worlds) | 126 | 3 |
 | [改编与复刻](#category-remix) | 14 | 3 |
-| [可互动网页](#category-interactive) | 63 | 3 |
+| [可互动网页](#category-interactive) | 98 | 3 |
 
 ## 怎么用
 
@@ -47,7 +47,7 @@
 
 免费的是这份资料，生成作品可能需要你已有的模型订阅或其他付费工具；案例展示不代表每次都能一键复现。
 
-选编依据是 2026-10-11 的站内快照：30 条均有完整且非片段的提示词、原帖和本地视频。各类优先挑收录时播放量较高的案例，再看画面选片段；互动类未记录播放量，按画面选择。完整库共 646 条，其中 306 条标记为完整提示词。
+选编依据是 2026-10-11 的站内快照：30 条均有完整且非片段的提示词、原帖和本地视频。各类优先挑收录时播放量较高的案例，再看画面选片段；互动类未记录播放量，按画面选择。完整库共 927 条，其中 306 条标记为完整提示词。
 
 ## 30 条精选提示词
 
@@ -2164,7 +2164,7 @@ Stable 60 FPS on an average laptop.
 
 </details>
 
-**[继续看全部 646 条：视频效果、中文／原文、一键复制 →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)**
+**[继续看全部 927 条：视频效果、中文／原文、一键复制 →](https://wutuobangai.top/opus55-video-prompts.html?utm_source=github&utm_medium=readme&utm_campaign=opus55-repo)**
 
 ## 来源与署名
 
